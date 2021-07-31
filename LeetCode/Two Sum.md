@@ -36,3 +36,13 @@ var twoSum = function(nums, target) {
   return []; // no answer
 };
 ```
+
+```javascript
+// Your input
+[2,7,11,15]
+9
+// Output
+[0,1]
+// Expected
+[0,1]
+```

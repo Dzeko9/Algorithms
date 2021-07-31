@@ -98,3 +98,10 @@ function orderOfPresentation(N, K) {
   return order;
 }
 ```
+
+```javascript
+var nullVar = null;
+
+console.log(typeof nullVar === null);  //false
+console.log(nullVar === null);         //true
+```

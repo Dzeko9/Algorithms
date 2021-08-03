@@ -25,6 +25,7 @@ let output2 = powerSet('jjump');
 console.log(output2); // ['', 'j', 'jm', 'jmp', 'jmpu', 'jmu', 'jp', 'jpu', 'ju', 'm', 'mp', 'mpu', 'mu', 'p', 'pu', 'u']
 ```
 
+## 문제풀이
 ```javascript
 const powerSet = function (str) {
   // 문자열을 각각 분리하여 배열로 나누고 정렬

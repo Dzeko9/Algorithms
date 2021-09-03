@@ -104,3 +104,5 @@ const rangeMinimum = function (arr, ranges) {
   return mins;
 };
 ```
+
+![ex_screenshot](https://media.vlpt.us/images/wjdqls9362/post/8503adc2-c542-45a5-a67b-cc4853900a5c/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202021-04-26%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%207.39.39.png)
